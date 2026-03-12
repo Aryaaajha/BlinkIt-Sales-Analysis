@@ -9,7 +9,7 @@ This project analyzes **$1.2M in sales data** from over 8,500 transactions to id
 * **Efficiency Metric:** Determined that **Medium-sized outlets** outperform High-capacity stores in sales-to-space efficiency, generating **$444K** in revenue.
 * **Consumer Behavior:** Validated that **Low Fat items** maintain consistent demand across all outlet sizes, totaling **$748K** in sales.
   
-  ![Dashboad](https://github.com/user-attachments/assets/01af3ad6-a7af-4728-ae30-1a94f71c8563)
+  ![Dashboad](visualization/dashboad.JPG)
 
 
 ## 🛠 Technical Workflow
