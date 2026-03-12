@@ -1,16 +1,18 @@
 # 🛒 BlinkIt Sales Analysis
 
-## 📌 Project Overview
+## 📌 Project Summary
+This project analyzes **$1.2M in sales data** from over 8,500 transactions to identify revenue drivers and outlet efficiency. Using **Python (Pandas)**, I cleaned raw transactional data and performed Exploratory Data Analysis (EDA) to uncover geographic and category-level trends.
 
-This project involves exploratory sales analysis on BlinkIt data using Python, with a primary focus on data loading, cleaning, and structured analysis using Pandas. The workflow includes inspecting data dimensions, handling categorical attributes, and applying aggregation techniques such as groupby and sorting to evaluate product-level and category-level sales performance. Key metrics and distributions are analyzed through Pandas operations and visualized using Matplotlib to identify trends, top-performing segments, and sales patterns. The project demonstrates a practical EDA workflow for extracting insights from transactional retail data.
+## 🚀 Key Insights & Results
+* **Top Revenue Drivers:** Identified **Fruits & Vegetables** and **Snack Foods** as the leading categories, contributing ~30% of total revenue.
+* **Geographic Performance:** Found that **Tier 3 cities** are the strongest market, generating **$472K (39%)** of total sales.
+* **Efficiency Metric:** Determined that **Medium-sized outlets** outperform High-capacity stores in sales-to-space efficiency, generating **$444K** in revenue.
+* **Consumer Behavior:** Validated that **Low Fat items** maintain consistent demand across all outlet sizes, totaling **$748K** in sales.
+  
+  ![Dashboad](https://github.com/user-attachments/assets/01af3ad6-a7af-4728-ae30-1a94f71c8563)
 
----
 
-## 🛠 Skills & Tools Used
-
-* Python
-* Pandas
-* Matplotlib
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
+## 🛠 Technical Workflow
+* **Data Cleaning:** Handled missing values and standardized categorical attributes (Item Fat Content, Outlet Size).
+* **EDA:** Utilized groupby and multi-index aggregation to segment performance by outlet tier and product type.
+* **Visualization:** Created trend charts and distribution plots using **Matplotlib** to communicate findings clearly.
