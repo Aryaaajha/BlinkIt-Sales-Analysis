@@ -16,3 +16,8 @@ This project analyzes **$1.2M in sales data** from over 8,500 transactions to id
 * **Data Cleaning:** Handled missing values and standardized categorical attributes (Item Fat Content, Outlet Size).
 * **EDA:** Utilized groupby and multi-index aggregation to segment performance by outlet tier and product type.
 * **Visualization:** Created trend charts and distribution plots using **Matplotlib** to communicate findings clearly.
+
+## 🧰 Tech Stack
+* **Language:** Python
+* **Visualization:** Matplotlib
+* **Tools:** Jupyter Notebook, Power BI
